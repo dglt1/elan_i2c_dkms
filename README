@@ -1,9 +1,9 @@
-This is an updated kernel module to fix touchpad detection on the Ryzen Ideapad 330.
+This is an updated kernel module to fix touchpad detection on the Ideapad 130 15IKB.
 Builds on Mint 18 (kernel 4.4) and 19 (kernel 4.15).
 
 To download and install, run this in a terminal:
 
-git clone https://www.github.com/Jookia/elan_i2c_dkms
+git clone https://www.github.com/aswathkk/elan_i2c_dkms
 cd elan_i2c_dkms
 sudo dkms install .
 
