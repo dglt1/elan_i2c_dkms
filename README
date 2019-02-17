@@ -1,10 +1,10 @@
-This is an updated kernel module to fix touchpad detection on the Ideapad 130 15IKB.
-Note: I tested this on Ubuntu 18.04 (kernel 4.19)
+This is an updated kernel module to fix touchpad on asus FX504G.
+Note: originally tested on Ubuntu 18.04 (kernel 4.19) and later forked/modified to work with manjaro
 
 To download and install, run this in a terminal:
 
-git clone https://www.github.com/aswathkk/elan_i2c_dkms
+git clone https://www.github.com/dglt1/elan_i2c_dkms
 cd elan_i2c_dkms
 sudo dkms install .
 
-Then reboot your machine.
+Then reboot.
