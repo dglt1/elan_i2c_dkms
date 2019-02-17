@@ -14,7 +14,7 @@
  * by the Free Software Foundation.
  *
  * Trademarks are the property of their respective owners.
- */
+ */  
 
 #include <linux/completion.h>
 #include <linux/delay.h>
