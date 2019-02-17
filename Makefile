@@ -3,7 +3,7 @@
 # Makefile for the mouse drivers.
 #
 
-# Each configuration option enables a list of files.
+# Each configuration option enables a list of files. 
 
 obj-$(CONFIG_MOUSE_ELAN_I2C)		+= elan_i2c.o
 elan_i2c-objs := elan_i2c_core.o
