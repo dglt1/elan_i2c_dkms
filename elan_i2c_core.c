@@ -1266,7 +1266,7 @@ static const struct acpi_device_id elan_acpi_id[] = {
 	{ "ELAN061E", 0 },
 	{ "ELAN0620", 0 },
 	{ "ELAN0622", 0 },
-	{ "ELAN1000", 0 },
+	{ "ELAN1200", 0 },
 	{ }
 };
 MODULE_DEVICE_TABLE(acpi, elan_acpi_id);
