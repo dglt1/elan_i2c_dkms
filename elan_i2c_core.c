@@ -16,7 +16,7 @@
  * by the Free Software Foundation.
  *
  * Trademarks are the property of their respective owners.
- */
+ */  
 
 #include <linux/acpi.h>
 #include <linux/delay.h>
